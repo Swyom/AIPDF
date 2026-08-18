@@ -1,0 +1,6 @@
+{
+  "name": "PDFMind AI",
+  "description": "Modern AI-powered PDF and document management workspace for reading, chatting, summarizing, OCR extraction, translation, searching, and transforming documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
